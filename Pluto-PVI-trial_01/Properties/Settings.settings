@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Pluto_PVI_trial_01.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="destination_ip_address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.12.200</Value>
+    </Setting>
+    <Setting Name="destination_tcp_port" Type="System.Int16" Scope="User">
+      <Value Profile="(Default)">11159</Value>
+    </Setting>
+    <Setting Name="source_tcp_port" Type="System.Int16" Scope="User">
+      <Value Profile="(Default)">26575</Value>
+    </Setting>
+    <Setting Name="source_station" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="logPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\perrje\OneDrive - Comet\My Documents\work\pluto-pvi.log</Value>
+    </Setting>
+    <Setting Name="logLevel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DEBUG</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
